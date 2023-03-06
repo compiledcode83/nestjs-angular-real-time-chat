@@ -1,15 +1,7 @@
 # real-time-chat-nestjs-angular
 
-Link to Github: https://github.com/ThomasOliver545/real-time-chat-nestjs-angular  
-Link to all Commits on Github: https://github.com/ThomasOliver545/real-time-chat-nestjs-angular/commits  
-Link to Twitter: https://twitter.com/Thomas_OliverK  
-
-Youtube Playlists:  
-Playlist "Realtime/Live Chat App": https://youtube.com/playlist?list=PLVfq1luIZbSkICzoA8EuvTskPEROS68i9    
-Playlist "2022": https://www.youtube.com/playlist?list=PLVfq1luIZbSmYCedSiFudCImiyCK1c2Qr  
-Playlist "Realtime/Live Chat App - Released Versions": https://youtube.com/playlist?list=PLVfq1luIZbSmz1-qgUdpV0xjjtzhnBHFl  
-
-Since i am doing this in my freetime Support via "Github Sponsor", "Github Follow", "Youtube Follow" etc. would be great.
+Link to Github: https://github.com/residentevil0803/real-time-chat-nestjs-angular  
+Link to all Commits on Github: https://github.com/residentevil0803/real-time-chat-nestjs-angular/commits  
 
 ## Good to know
 - Api build with NestJS 8, because v8 has Support for the latest Socket.io Release v4
